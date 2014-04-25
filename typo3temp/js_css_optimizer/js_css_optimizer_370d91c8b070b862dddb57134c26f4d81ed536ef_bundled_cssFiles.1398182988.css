@@ -6,7 +6,6 @@
 
 @font-face {
     font-family: 'Share';
-    src: url('http://typo3.org/typo3conf/ext/t3org_template/fonts/share-bold-webfont.eot');
     src: url('../../typo3conf/ext/t3org_template/fonts/share-bold-webfont.eot') format('embedded-opentype'),
          url('../../typo3conf/ext/t3org_template/fonts/share-bold-webfont.woff') format('woff'),
          url('../../typo3conf/ext/t3org_template/fonts/share-bold-webfont.ttf') format('truetype'),
@@ -17,7 +16,6 @@
 
 @font-face {
     font-family: 'Share';
-    src: url('http://typo3.org/typo3conf/ext/t3org_template/fonts/share-italic-webfont.eot');
     src: url('../../typo3conf/ext/t3org_template/fonts/share-italic-webfont.eot') format('embedded-opentype'),
          url('../../typo3conf/ext/t3org_template/fonts/share-italic-webfont.woff') format('woff'),
          url('../../typo3conf/ext/t3org_template/fonts/share-italic-webfont.ttf') format('truetype'),
@@ -28,7 +26,6 @@
 
 @font-face {
     font-family: 'Share';
-    src: url('http://typo3.org/typo3conf/ext/t3org_template/fonts/share-regular-webfont.eot');
     src: url('../../typo3conf/ext/t3org_template/fonts/share-regular-webfont.eot') format('embedded-opentype'),
          url('../../typo3conf/ext/t3org_template/fonts/share-regular-webfont.woff') format('woff'),
          url('../../typo3conf/ext/t3org_template/fonts/share-regular-webfont.ttf') format('truetype'),
@@ -2403,68 +2400,68 @@ label[for="tx-czsimplecal-event-locationCountry"] {
  * News File List
  *
  */
- 
- .d .news-download-list { 
-	 margin: 0 0 6px; 
+
+ .d .news-download-list {
+	 margin: 0 0 6px;
  }
- 
- .d .news-download-list li { 
-	 border-bottom: 1px solid #D8D8D8; 
-	 position: relative; 
-	 border-top: 1px solid #FFF; 
-	 padding: 9px 48px; 
-	 font-size: 10px; 
-	 color: #8c8c8c; 
-	 background: none; 
+
+ .d .news-download-list li {
+	 border-bottom: 1px solid #D8D8D8;
+	 position: relative;
+	 border-top: 1px solid #FFF;
+	 padding: 9px 48px;
+	 font-size: 10px;
+	 color: #8c8c8c;
+	 background: none;
  }
- 
+
  .news-download-list h5,
- .news-download-list p { 
-	 margin: 0; 
-	 line-height: 14px; 
+ .news-download-list p {
+	 margin: 0;
+	 line-height: 14px;
  }
- 
- .news-download-list h5	{ 
-	 font-weight: bold; 
-	 font-size: 11px; 
+
+ .news-download-list h5	{
+	 font-weight: bold;
+	 font-size: 11px;
  }
- 
- .news-download-list li:hover { 
-	 background: #FFF; 
+
+ .news-download-list li:hover {
+	 background: #FFF;
  }
- 
- .d .news-download-list .last { 
-	 border-bottom: 0; 
+
+ .d .news-download-list .last {
+	 border-bottom: 0;
  }
- 
- .news-download-list .i-save { 
-	 position: absolute; 
-	 left: 12px; 
-	 top: 11px; 
+
+ .news-download-list .i-save {
+	 position: absolute;
+	 left: 12px;
+	 top: 11px;
  }
- 
- .news-download-list .i-arr-down-bigger	{ 
-	 position: absolute; 
-	 right: 8px; 
-	 top: 16px; 
+
+ .news-download-list .i-arr-down-bigger	{
+	 position: absolute;
+	 right: 8px;
+	 top: 16px;
  }
- 
- .news-download-list .i-arr-down-bigger	{ 
-	 position: absolute; 
-	 right: 8px; 
-	 top: 16px; 
+
+ .news-download-list .i-arr-down-bigger	{
+	 position: absolute;
+	 right: 8px;
+	 top: 16px;
  }
- 
- .news-download-list .i-preview	{ 
-	 position: absolute; 
-	 right: 26px; 
-	 top: 15px; 
+
+ .news-download-list .i-preview	{
+	 position: absolute;
+	 right: 26px;
+	 top: 15px;
  }
- 
- .sep { 
-	 padding: 0 4px; 
+
+ .sep {
+	 padding: 0 4px;
  }
- 
+
 /**
  * News Lists
  *
@@ -2555,16 +2552,16 @@ label[for="tx-czsimplecal-event-locationCountry"] {
 .b-top-news .b-wi-pic {
  	margin: 0;
 }
-.b-top-news .b-wi-pic img { 
+.b-top-news .b-wi-pic img {
 	border: 1px solid #d1d1d1;
 }
 .b-top-news .b-wi-text {
  	clear: both;
  	margin-bottom: 10px;
  }
- 
- 
- 
+
+
+
 /**
  * BEN: News list for articles
  *
@@ -2580,7 +2577,7 @@ label[for="tx-czsimplecal-event-locationCountry"] {
 	text-decoration:none;
 }
 .articles .b-news-item-info {
-	border-bottom: 1px solid #D1D1D1;	
+	border-bottom: 1px solid #D1D1D1;
 }
 
 .articles .b-news-item-info {
